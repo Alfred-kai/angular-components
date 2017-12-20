@@ -2,7 +2,7 @@
 ### 简介
 基于angularJS 开发的UI组件或工具类，目前可使用的组件
 
-* [angular-autocomplete](表单输入提示)（图标选择工具）
+* [angular-iconpicker](表单输入提示)（图标选择工具）
 
 
 
