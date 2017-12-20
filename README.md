@@ -1,7 +1,8 @@
 # angular-components
-### 简介<br>
-基于angularJS 开发的UI组件或工具类，目前可使用的组件<br>
-*[angular-autocomplete](表单输入提示)<br>
+### 简介
+基于angularJS 开发的UI组件或工具类，目前可使用的组件
+
+*[angular-autocomplete](表单输入提示)
 
 
 
